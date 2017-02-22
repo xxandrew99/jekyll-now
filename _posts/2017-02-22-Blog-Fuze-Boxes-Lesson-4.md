@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Fuse Boxes - Lesson 4</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>21/02/17</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Doing more work on Fuze</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>Work more on Fuse Boxes</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td>Yes, and we made even more progress by managing to get onto the LED's.</td>
   </tr>
 </table>
@@ -35,22 +35,22 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>We continued to make more progress on the Fuze and we managed to complete 2 more of the excel isles and we did that by me writing the first 1 and my partner helping and then we did it the other way round.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+  <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>We didn't really have any problems this lesson we worked well and there wasn't any delays and we made probably the best progress we have made for weeks.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time we need to try and do it more slowly rather than rushing in to save it and then it crashing and having to do it again try and do it a bit slower next time.</td>
