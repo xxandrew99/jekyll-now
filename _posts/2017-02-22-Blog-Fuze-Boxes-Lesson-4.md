@@ -11,7 +11,7 @@ published: true
     <th>Title</th>
     <td>Fuse Boxes - Lesson 4</td>
     <th>Date</th>
-    <td>21/02/17</td>
+    <td>20/02/17</td>
   </tr>
 </table>
 
