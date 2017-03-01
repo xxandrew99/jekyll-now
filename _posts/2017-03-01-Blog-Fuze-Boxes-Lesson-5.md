@@ -8,26 +8,26 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Fuze Boxes - Lesson 5</td>
     <td>Date</td>
-    <td>27/2/17</td>
+    <th>27/2/17</th>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Starting with LED's</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>Get an LED to turn on.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td> Yes we do but it was quite a challenge</td>
   </tr>
 </table>
@@ -35,22 +35,22 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>.We worked really well but it wasn't easy, but my personality thankfully gave me a boost and the fact that my partner had helped me and persuaded me not to stop and give up really gave me a boost and we managed to do it in the end.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>I need to try and make sure that I keep my head up and don't lose hope as if I don't give I as I proved to myself will be able to do it.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>In the end the only problem was that I in the end asked a friend what I had done wrong and he moved one of the wires and then it worked so it just goes to show even if something is in the wrong place by one it affects the whole thing.</td>
