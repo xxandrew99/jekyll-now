@@ -10,8 +10,8 @@ published: true
   <tr>
     <th>Title</th>
     <td>Fuze Boxes - Lesson 5</td>
-    <td>Date</td>
-    <th>27/2/17</th>
+    <th>Date</th>
+    <td>27/2/17</td>
   </tr>
 </table>
 
