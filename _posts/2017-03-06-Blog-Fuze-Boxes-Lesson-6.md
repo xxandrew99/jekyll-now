@@ -57,6 +57,6 @@ published: true
   </tr>
 </table>
 
-<a href="http://tinypic.com?ref=24gr6e1" target="_blank"><img src="http://i66.tinypic.com/24gr6e1.jpg" border="0" 
+
 
 
