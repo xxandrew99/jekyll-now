@@ -58,14 +58,3 @@ published: true
 </table>
 
 <a href="http://tinypic.com?ref=24gr6e1" target="_blank"><img src="http://i66.tinypic.com/24gr6e1.jpg" border="0" alt="Image and video hosting by TinyPic"></a>         <a href="http://tinypic.com?ref=rj0e9j" target="_blank"><img src="http://i66.tinypic.com/rj0e9j.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
-
-<html>
-<body>
-<iframe width="380" height="260"
-src="https://www.youtube.com/embed/v=5dYlqOKL1jI">
-</iframe>
-</body>
-</html>
-
-
-
