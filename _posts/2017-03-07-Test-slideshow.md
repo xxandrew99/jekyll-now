@@ -1,5 +1,5 @@
 ---
-title: Test Slideshow: W3 - Schools
+title: Test Slideshow - www.w3schools.com
 layout: post
 author: andrew.pimenta
 permalink: /test-slideshow/
