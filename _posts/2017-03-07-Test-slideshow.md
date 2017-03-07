@@ -11,19 +11,19 @@ Test slideshow
 <div class="slideshow-container">
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="cool 1.jpg" style="width:100%">
+    <img src="https://tse1.mm.bing.net/th?id=OIP.oj71mwE5qQ5wPCJUevVnTQEsDd&pid=15.1&P=0&w=229&h=170.jpg" style="width:100%">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="cool 2.jpg" style="width:100%">
+    <img src="http://i487.photobucket.com/albums/rr234/gits777/cool.jpg.jpg" style="width:100%">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="cool 3.jpg" style="width:100%">
+    <img src="http://i.ytimg.com/vi/hKdUHgtEzVc/maxresdefault.jpg.jpg" style="width:100%">
     <div class="text">Caption Three</div>
   </div>
 
@@ -37,5 +37,3 @@ Test slideshow
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
-
-
