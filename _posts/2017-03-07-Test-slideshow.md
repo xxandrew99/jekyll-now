@@ -6,7 +6,7 @@ permalink: /test-slideshow/
 source-id: 1YPJij5cZ9GD2-KRsOczN0Otov1u2jKouoc8k89rRYvA
 published: true
 ---
-Test slideshow
+Test of a slideshow with 3 images in.
 
 <div class="slideshow-container">
   <div class="mySlides fade">
