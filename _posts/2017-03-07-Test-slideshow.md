@@ -6,7 +6,7 @@ permalink: /test-slideshow/
 source-id: 1YPJij5cZ9GD2-KRsOczN0Otov1u2jKouoc8k89rRYvA
 published: true
 ---
-Test of a slideshow with 3 images in this was trial and error with my code to get it the way I wanted. I explored how you can put images in a numbered order
+Test of a slideshow with 3 images in this was trial and error with my code to get it the way I wanted. I explored how you can put images in a numbered order.
 
 <div class="slideshow-container">
   <div class="mySlides fade">
