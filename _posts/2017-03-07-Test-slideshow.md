@@ -26,14 +26,3 @@ Test slideshow
     <img src="http://i.ytimg.com/vi/hKdUHgtEzVc/maxresdefault.jpg" style="width:100%">
     <div class="text">Image 3</div>
   </div>
-
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
-
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
-</div>
