@@ -57,4 +57,6 @@ published: true
   </tr>
 </table>
 
-
+<iframe width="360" height="180" src="https://www.youtube.com/embed/o5pJkf7SZf8" frameborder="0" allowfullscreen></iframe> 
+<iframe width="360" height="180" src="https://www.youtube.com/embed/Nv6fbi77VlU" frameborder="0" allowfullscreen></iframe> 
+<iframe width="360" height="180" src="https://www.youtube.com/embed/QoRNFyHbMR0" frameborder="0" allowfullscreen></iframe> 
