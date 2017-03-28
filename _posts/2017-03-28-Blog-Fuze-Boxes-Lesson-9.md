@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Fuze Boxes - Lesson 9</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>27/3/17</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Continuing with the robotic arm</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To be able to control the robotic arm more easily rather than having to type in the commands slowly</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td> Yes we did and we were able to control it to pick up something.</td>
   </tr>
 </table>
@@ -35,22 +35,22 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>We learnt well as we are more familiar with how the robotic arm as we knew how it worked basically and that helped with the overall progress of the lesson. Also I thought that my partner helped a lot as he understood it as we had done a lot of looking into how we were to do it last lesson.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>The only thing that limited my learning really was the structure of the handbook as it was quite complicated and I didn't find it that clear in some cases</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time I think that we will be quicker when getting everything set up as today we were a bit slow to start but we did make quick progress throughout the rest of the lesson.</td>
