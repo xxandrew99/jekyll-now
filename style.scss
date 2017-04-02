@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: #000000;
+  background-image: url("http://i1.ytimg.com/vi/ap_osa6PhG4/maxresdefault.jpg");
   font: 18px/1.4 $helvetica;
-  color: #FFFFFF;
+  color: $darkGray;
+  background-attachment: fixed;
 }
 
 .container {
