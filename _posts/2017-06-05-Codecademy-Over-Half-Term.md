@@ -8,18 +8,15 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Diary of Coding over half term</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>Half Term</td>
   </tr>
 </table>
 
 
 <table>
-  <tr>
-    <td>Lesson Review</td>
-  </tr>
   <tr>
     <td>My Diary</td>
   </tr>
