@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Codecademy - Lesson 5</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>20/06/17</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Continuing with Codecademy</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>Make further progress</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td> Yes, I did</td>
   </tr>
 </table>
@@ -35,22 +35,22 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I learnt this week by working with my classmates as Mr Keen wasn't in today so I learnt well with asking for advice and support from my classmates</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>Not having the teacher there throughout the lesson as sometimes it was just one line of code missing, which would of taken a much shorter time if I had Mr Keen to ask for help.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?By </td>
+    <th>What will I change for next time? How will I improve my learning?By </th>
   </tr>
   <tr>
     <td>By next lesson I need to do some more research into some small but key factors in the overall Python code to get the correct syntax. </td>
