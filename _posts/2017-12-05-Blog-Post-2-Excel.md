@@ -15,4 +15,4 @@ published: true
   </tr>
 </table>
 
-<img src="https://lh3.ggpht.com/e3oZddUHSC6EcnxC80rl_6HbY94sM63dn6KrEXJ-C4GIUN-t1XM0uYA_WUwyhbIHmVMH=w300" alt="Mountain View" style="width:304px;height:228px;">
+<img src="https://drive.google.com/file/d/1vT_b6wNu3bSP6FgMastOtLMnpEdHVRJo/view?usp=sharing" alt="Mountain View" style="width:304px;height:228px;">
