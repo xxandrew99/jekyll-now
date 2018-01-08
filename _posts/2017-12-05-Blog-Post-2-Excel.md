@@ -13,7 +13,7 @@ published: true
   <tr>
     <td>In today's lesson we started by making sure that everyone had managed to get to the same point from last week and then we looked at how we can make it easier if there is a 20% reduction or buy one get one free etc... Then we looked into the 'if’ function and the greater than function to enable the reductions of the overall price to be able to work and make it easier for workers at my Virtual Shop. 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0CWf32Rtnhpu-w9s7XpSKie9ARK1DUtasFpuPQFbYYeWduGSVItcVhLV-PiSTEKYi9ieeM-ii8ji6/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe height="405px" width="720px src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0CWf32Rtnhpu-w9s7XpSKie9ARK1DUtasFpuPQFbYYeWduGSVItcVhLV-PiSTEKYi9ieeM-ii8ji6/pubhtml?widget=true&amp;headers=false"></iframe>
 
 </td>
   </tr>
