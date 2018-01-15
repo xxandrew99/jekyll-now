@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Blog Post 3 Excel</td>
+    <th>Blog Post 3 Excel</th>
   </tr>
   <tr>
     <td>In today's lesson rather than looking at the excel we decided to improve our websites by adding features for example putting our work into our blog post and then we made sure that they were all functioning and working to how they should be.</td>
