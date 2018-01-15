@@ -19,9 +19,11 @@ html {
 
 body {
   background-image: url("https://www.alldesigncreative.com/wp-content/uploads/abstract/light-abstract-background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-  background-attachment: fixed;
 
 }
 
