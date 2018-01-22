@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Blog Post 4 - Blog Work</td>
+    <th>Blog Post 4 - Blog Work</th>
   </tr>
   <tr>
     <td>In today's lesson we looked at our blogs and how we can make them more accessible we looked at the colour schemes and how colours should work on certain backgrounds to make it easier to read.
