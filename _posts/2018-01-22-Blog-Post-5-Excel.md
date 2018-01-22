@@ -12,7 +12,8 @@ published: true
   </tr>
   <tr>
     <td>Today we learnt about having a new sheet and adding in discount codes, and adding in codes to get a certain amount off the total. To make data neater borders are recommended. Also can use the conditional format for bad and good, in different colours. Green = Good and Red = Bad. Then after this we worked out how we could use the price bought in and then the price sold for to work out the overall price. As well as this using the conditional formatting the colour of the green cell with the overall profit changes if the price went below £2500 profit. To work out the profits made.
-      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0CWf32Rtnhpu-w9s7XpSKie9ARK1DUtasFpuPQFbYYeWduGSVItcVhLV-PiSTEKYi9ieeM-ii8ji6/pubhtml?widget=true&amp;headers=false"></iframe>
+     
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0CWf32Rtnhpu-w9s7XpSKie9ARK1DUtasFpuPQFbYYeWduGSVItcVhLV-PiSTEKYi9ieeM-ii8ji6/pubhtml?widget=true&amp;headers=false"></iframe>
     </td>
   </tr>
 </table>
