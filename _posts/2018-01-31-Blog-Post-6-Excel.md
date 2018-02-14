@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Blog Post 6 Excel</td>
+    <th>Blog Post 6 Excel</th>
   </tr>
   <tr>
     <td>In today's lesson we looked at the discount codes and how you can add in other sheets to make certain codes applicable to then get a certain percentage off the final total, this was developed throughout the lesson but yet to complete the overall discount codes nad getting it to function 100%.</td>
