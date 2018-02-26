@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Blog Post 8 Excel</td>
+    <th>Blog Post 8 Excel</th>
   </tr>
   <tr>
     <td>In today's lesson we looked at the ASCII table which showed us how individual commands are done on the computer using ones and zeros which is called binary. We then took this concept and managed to start having a look at how we could use rather than different letters in the caesar cipher instead we could use ones and zeros to form a code.</td>
