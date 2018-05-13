@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Blog Post 6 Repl.it</td>
+    <th>Blog Post 6 Repl.it</th>
   </tr>
   <tr>
     <td>In today's lesson we discussed the different ways in which we could use code to be able make a systematical and logical way of trying to find a conclusive overall answer and we looked at many ways and using the tools of python eventually decided on what to do.</td>
