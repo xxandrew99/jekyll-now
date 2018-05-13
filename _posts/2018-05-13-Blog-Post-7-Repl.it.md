@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Blog Post 7 Repl.it</td>
+    <th>Blog Post 7 Repl.it</th>
   </tr>
   <tr>
     <td>In today's lesson we looked at the number cumulative frequency and arranging into groups and started to put it into practice using different parts of coding for example n/ to make a new line making the appearance of the quiz look much nicer also using quotation marks to mark strings as well as this adding in a error if one of the answers was false to make sure the quiz didn’t continue without an answer that was valid.</td>
