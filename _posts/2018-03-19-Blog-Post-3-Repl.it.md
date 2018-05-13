@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Blog Post 4 Repl.it</td>
+    <th>Blog Post 4 Repl.it</th>
   </tr>
   <tr>
     <td>In today's lesson we looked at how we could use the commands making the turtle turn a certain angle and a certain length to help form 3D shapes for example rather than doing a 2D 't’ instead we made it into a 3D ‘t’ and then we also looked at how we could fill the shape with colour but was unsuccessful and hope to try and do it next time.</td>
